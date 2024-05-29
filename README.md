@@ -14,4 +14,4 @@ Visual segmentation results：
 Our training data has been uploaded to Baidu Cloud: 链接：https://pan.baidu.com/s/1wfoy_7YiFUGPFvMHkc3e0Q 
 提取码：1234 
 
-If you have any questions during use, please contact us. Our email address is: m210200619@st.shou.edu.cn.
+If you have any questions during use, please contact us. Our email address is: z1813914689@163.com.
